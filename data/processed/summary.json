@@ -1,0 +1,25 @@
+{
+  "excluded_motorway_nodes": 105,
+  "years": [
+    2019,
+    2025
+  ],
+  "n_crashes": 47261,
+  "n_snapped": 24764,
+  "total_cost_per_yr_all": 610230100.0,
+  "snapped_cost_per_yr": 333670771.4285714,
+  "spf_coef": [
+    -1.4286074444690022,
+    2.1004967017206972
+  ],
+  "alpha": 0.6098835281521313,
+  "n_intersections": 1775,
+  "kabco_counts": {
+    "O": 35284,
+    "C": 8587,
+    "B": 2679,
+    "A": 592,
+    "K": 115,
+    "U": 4
+  }
+}
